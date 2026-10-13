@@ -1,0 +1,12 @@
+person Bright M 2549
+person Chiang M 2517
+person Pom F 2516
+person Chakris M 2514
+person Bird M 2521
+person Santi M 2492
+person Yugul F 2491
+house Pks14 Santi Yugul
+house Nisachol Chiang Pom
+person Pueleng F 2480
+house Tongsae none Pueleng
+add_kids Tongsae Chiang
